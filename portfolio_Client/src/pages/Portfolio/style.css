@@ -1,0 +1,9 @@
+.portfolioBackgroundColor {
+    background-image: url("https://img.freepik.com/premium-photo/worktable-with-books-supplies-camera-copy-space-home-office-room_67155-12453.jpg?w=740");
+    background-size:cover;
+    height:80%;
+}
+
+.cardBackground {
+    background-color: #DDD0C8;
+}
